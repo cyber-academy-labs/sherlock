@@ -56,7 +56,8 @@
     "url": "https://about.me/{}",
     "urlMain": "https://about.me/",
     "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
+    "username_unclaimed": "noonewouldeverusethis7",
+    "password": "asdasd"
   },
   "Academia.edu": {
     "errorType": "status_code",
