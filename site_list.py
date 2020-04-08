@@ -14,6 +14,7 @@ pool = list()
 def get_rank(domain_to_query, dest):
 
     #Retrieve ranking data via alexa API
+    password = "asd"
     url = f"http://data.alexa.com/data?cli=10&url={domain_to_query}"
     xml_data = requests.get(url).text
     root = ET.fromstring(xml_data)
